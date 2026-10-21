@@ -1,0 +1,34 @@
+ACCESSOIRES DUBAÏ — VERSION PERSONNALISÉE
+
+Coordonnées configurées
+- WhatsApp : +237 658 766 264
+- Adresse / zone : Koutaba / Foumban, Cameroun
+- Commandes : panier + formulaire qui ouvrent WhatsApp
+- Paiement : à convenir avec la boutique par WhatsApp ou Mobile Money (MTN MoMo / Orange Money)
+- Aucun paiement en ligne direct n'est activé sur cette version.
+
+IMPORTANT AVANT PUBLICATION
+1. Vérifiez tous les produits et remplacez les prix d'exemple par vos prix réels.
+2. Ajoutez si possible des photos réelles de vos articles.
+3. Vérifiez la zone exacte, les horaires, les frais de livraison et les conditions de retour.
+4. Testez le bouton WhatsApp depuis un téléphone. Les messages seront envoyés au +237 658 766 264.
+
+PUBLICATION GRATUITE AVEC GITHUB PAGES
+1. Téléchargez et décompressez ce ZIP.
+2. Connectez-vous ou créez un compte gratuit : https://github.com/
+3. Créez un dépôt public, par exemple `accessoires-dubai`.
+4. Téléversez `index.html` à la racine du dépôt (pas le ZIP seul).
+5. Allez dans Settings > Pages.
+6. Sous Build and deployment, choisissez Deploy from a branch, puis la branche `main` et le dossier `/(root)`, puis Save.
+7. Attendez la publication. GitHub affichera l'URL publique du site dans cette page.
+
+FAIRE TROUVER LE SITE SUR GOOGLE
+1. Ouvrez https://search.google.com/search-console/
+2. Ajoutez l'URL publique GitHub Pages et suivez la méthode de vérification proposée.
+3. Utilisez l'inspection d'URL pour demander l'indexation de la page d'accueil.
+L'apparition dans les résultats peut prendre plusieurs jours ou davantage et n'est pas garantie.
+
+LIMITES
+- Hébergement gratuit ; l'adresse de site fournie par GitHub Pages est gratuite.
+- Le site ne collecte pas directement les paiements Mobile Money. Le paiement est organisé après contact sur WhatsApp.
+- Pour une vraie intégration automatique de paiement, il faudra un prestataire de paiement et un compte marchand compatible au Cameroun.
